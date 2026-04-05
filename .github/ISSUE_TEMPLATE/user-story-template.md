@@ -2,10 +2,9 @@
 name: New User Story Template
 about: Template for creating a new user story.
 title: US_XX.YYY | Epic Name > User Story Name
-labels: US
+labels: US, service-label
 type: Feature
 ---
-**ID:** US_XX.YYY | Epic Name > User Story Name
 
 **Description:**
 **As a** [User type],
@@ -22,6 +21,3 @@ type: Feature
 - [Action 3].
 - [Action 4].
 4. After [Final Action], the user is redirected to [Page/Section].  
-
----
-Author: @[Name on GitHub]

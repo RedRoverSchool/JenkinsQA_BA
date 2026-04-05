@@ -2,7 +2,7 @@
 name: New User Story Template
 about: Template for creating a new user story.
 title: US_XX.YYY | Epic Name > User Story Name
-labels: US, service-label
+labels: US
 type: Feature
 ---
 **ID:** US_XX.YYY | Epic Name > User Story Name

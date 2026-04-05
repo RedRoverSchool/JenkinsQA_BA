@@ -1,14 +1,10 @@
 ---
-name: User story template
-about: Template for creating a new user story card.
-title: US_[XX.YYY] | [Epic Name] > [User Story Name]
-labels: US
-assignees: ''
+name: New User Story Template
+about: Template for creating a new user story.
+title: ''
+labels: US, service-label
 type: Feature
-
 ---
-
-**ID:** US_[XX.YYY] | [Epic Name] > [User Story Name]
 
 **Description:**
 **As a** [User type],
@@ -25,6 +21,3 @@ type: Feature
 - [Action 3].
 - [Action 4].
 4. After [Final Action], the user is redirected to [Page/Section].  
-
----
-Author: @[Profile Name on GitHub]
